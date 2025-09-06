@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Outfit', sans-serif;
-    background-color: hsl(212, 45%, 89%);    
+    background-color: #D5E1EF;    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -31,9 +31,8 @@ body {
 }
 
 img {
-    width: 288px;
-    height: 288px;
-    border-radius: 20px;
+    width: 100%;
+    border-radius: 10px;
 }
 
 .text-container {
@@ -42,5 +41,24 @@ img {
 }
 
 .text-container h1 {
-    font-size: 1.5rem;
+    font-size: 22px;
+    font-weight: 700;
+    color: #1F314F;
+    margin-bottom: 15px;
+    line-height: 120%;
 }
+
+.text-container {
+    font-size: .95rem;
+    color: #68778D
+}
+
+.attribution {
+    margin: 14px;
+    font-size: 12px;
+    color: #68778D;
+    display: none;
+ 
+
+}
+

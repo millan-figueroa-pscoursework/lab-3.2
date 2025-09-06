@@ -1,6 +1,8 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+Millan Figueroa
+Lab 3.2 Solution
+Frontend Mentor Challenge - QR code component
 
 ## Table of contents
 
@@ -15,97 +17,46 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
+
+This project was a frontend challenge where I recreated a card component from a design, focusing on responsive layout, accurate styling, and clean code structure. It helped me practice translating design files into functional, maintainable HTML and CSS.
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![](./frontend-mentors.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/millan-figueroa-pscoursework/sba3)
 
 ## My process
+
+I initially jumped straight into coding and quickly felt lost and overwhelmed, especially with each folder containing a README.md file. Taking the time to read them, along with referencing the Figma file and style guidelines, made the process much clearer and more manageable.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
--positioning: using flexbox instead of padding and margin to center my divs
--using figma file instead of just re-create design by looking at image
--using design assets
--box-sizing: border-box; makes an element’s width and height include its padding and border, instead of adding them on top. This keeps layouts predictable and prevents elements from accidentally becoming larger than intended.
--how to write markdown
--min-height: 100vh moved the card to the center verticallly
--Setting the card’s max-width: 320px; ensures it stays readable and proportional across devices, preventing it from stretching too wide on larger screens while still shrinking on smaller ones.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+I improved my understanding of positioning by using Flexbox instead of relying on padding and margins to center elements, and I applied `min-height: 100vh` to center the card vertically. I learned to reference the Figma file directly instead of just copying from an image, which helped me follow the style guide and use design assets which I haven't done before. While we were working in group I learned by we use CSS properties like `box-sizing: border-box;`, which keeps element dimensions predictable by including padding and borders. I also experimented with HSL vs. hex colors from different style guides, practiced using the hidden attribute, and polished my Markdown writing skills for documentation.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+Next, I plan to rebuild this project using frameworks like React and TailwindCSS. I also want to deploy it on Netlify for live testing and later add interactive features. This will help me practice modern frontend workflows and improve my overall development skills.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+Traversy media. CSS cheatsheet. Figma.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Github - [Millan Figueroa](https://github.com/millan-figueroa-pscoursework)
+- Frontend Mentor - [@millan-figueroa](https://www.frontendmentor.io/profile/millan-figueroa)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Leon Noel, my classmates, the instructors at Per Scholas.
