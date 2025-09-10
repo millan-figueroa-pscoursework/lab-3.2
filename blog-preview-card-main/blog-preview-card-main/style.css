@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.attribution {
+    display: none;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-container {
+    width: 320px;
+    background-color: white;
+    padding: 16px;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 6px 6px 0 #000;
+    
+}
+
+
